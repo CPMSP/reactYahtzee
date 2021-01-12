@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactYahtzee/static/css/main.5f66b679.chunk.css",
+    "main.js": "/reactYahtzee/static/js/main.4d679c8f.chunk.js",
+    "main.js.map": "/reactYahtzee/static/js/main.4d679c8f.chunk.js.map",
+    "runtime-main.js": "/reactYahtzee/static/js/runtime-main.34d113d2.js",
+    "runtime-main.js.map": "/reactYahtzee/static/js/runtime-main.34d113d2.js.map",
+    "static/css/2.93fe2284.chunk.css": "/reactYahtzee/static/css/2.93fe2284.chunk.css",
+    "static/js/2.601246aa.chunk.js": "/reactYahtzee/static/js/2.601246aa.chunk.js",
+    "static/js/2.601246aa.chunk.js.map": "/reactYahtzee/static/js/2.601246aa.chunk.js.map",
+    "index.html": "/reactYahtzee/index.html",
+    "precache-manifest.4d90d4274965a5fde23f77a5e743e9a8.js": "/reactYahtzee/precache-manifest.4d90d4274965a5fde23f77a5e743e9a8.js",
+    "service-worker.js": "/reactYahtzee/service-worker.js",
+    "static/css/2.93fe2284.chunk.css.map": "/reactYahtzee/static/css/2.93fe2284.chunk.css.map",
+    "static/css/main.5f66b679.chunk.css.map": "/reactYahtzee/static/css/main.5f66b679.chunk.css.map",
+    "static/js/2.601246aa.chunk.js.LICENSE.txt": "/reactYahtzee/static/js/2.601246aa.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/reactYahtzee/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34d113d2.js",
+    "static/css/2.93fe2284.chunk.css",
+    "static/js/2.601246aa.chunk.js",
+    "static/css/main.5f66b679.chunk.css",
+    "static/js/main.4d679c8f.chunk.js"
+  ]
+}
